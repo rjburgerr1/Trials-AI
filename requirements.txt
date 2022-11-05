@@ -6,4 +6,4 @@ pytesseract==0.3.10
 pywin32==304
 win32gui==221.6
 Xlib==0.21
-~pencv_python_headless==4.5.1.48
+pencv_python_headless==4.5.1.48
