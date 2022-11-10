@@ -1,1 +1,6 @@
-0 gas 7
+0 gas 6 
+0 brake 3 
+0 lean -2 
+100 gas 0 
+100 brake 0 
+100 lean 0 
